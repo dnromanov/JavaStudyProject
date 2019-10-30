@@ -1,0 +1,7 @@
+/config.properties
+/dao/
+/filters/
+/model/
+/roles_urls_mapping.properties
+/servlets/
+/util/
